@@ -1,0 +1,2441 @@
+{
+  "CHANNEL_I": {
+    "url": "https://tvsen6.aynaott.com/channeli/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261",
+    "tagline": "Recorded TV",
+    "hd": true,
+    "k2": "",
+    "description": "Channel I is a popular Bangladeshi television channel.",
+    "country": "Bangladesh"
+  },
+  "NTV": {
+    "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.fmp4.m3u8",
+    "logo": "https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449",
+    "tagline": "Recorded TV",
+    "hd": true,
+    "k2": "",
+    "description": "NTV is one of the leading satellite TV channels in Bangladesh.",
+    "country": "Bangladesh"
+  },
+  "BANGLA_VISION": {
+    "url": "https://tvsen5.aynaott.com/banglavision/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043",
+    "tagline": "Recorded TV",
+    "hd": true,
+    "k2": "",
+    "description": "Bangla Vision broadcasts entertainment and news programs.",
+    "country": "Bangladesh"
+  },
+  "RTV": {
+    "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991",
+    "tagline": "Recorded TV",
+    "hd": true,
+    "k2": "",
+    "description": "RTV is a Bangladeshi TV channel offering news and entertainment.",
+    "country": "Bangladesh"
+  },
+  "ATN_BANGLA": {
+    "url": "https://tvsen5.aynaott.com/atnbangla/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22",
+    "tagline": "Recorded TV",
+    "hd": true,
+    "k2": "",
+    "description": "ATN Bangla is one of the first satellite TV channels in Bangladesh.",
+    "country": "Bangladesh"
+  },
+  "MAASRANGA_TV": {
+    "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2",
+    "tagline": "Recorded TV",
+    "hd": true,
+    "k2": "",
+    "description": "Maasranga TV features a variety of entertainment and drama shows.",
+    "country": "Bangladesh"
+  },
+  "DEEPTO_TV": {
+    "url": "https://tvsen5.aynaott.com/DeeptoTVHD/index.fmp4.m3u8",
+    "logo": "https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8",
+    "tagline": "Recorded TV",
+    "hd": true,
+    "k2": "",
+    "description": "Deepto TV is known for serial dramas and entertainment programs.",
+    "country": "Bangladesh"
+  },
+  "T_SPORTS_HD": {
+    "url": "https://tvsen5.aynaott.com/tsports/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32",
+    "tagline": "Recorded TV",
+    "hd": true,
+    "k2": "",
+    "description": "T Sports is Bangladesh’s first dedicated sports TV channel.",
+    "country": "Bangladesh"
+  },
+  "DURONTO_TV": {
+    "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc",
+    "tagline": "Recorded TV",
+    "hd": true,
+    "k2": "",
+    "description": "Duronto TV is a children’s television channel in Bangladesh.",
+    "country": "Bangladesh"
+  },
+  "ETV": {
+    "url": "https://tvsen6.aynaott.com/etv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "ETV (Ekushey Television) is one of the most popular channels in Bangladesh.",
+    "country": "Bangladesh"
+  },
+  "MAASRANGA_TV": {
+    "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Maasranga TV features a variety of entertainment and drama shows.",
+    "country": "Bangladesh"
+  },
+  "DEEPTO_TV": {
+    "url": "https://tvsen5.aynaott.com/DeeptoTVHD/index.fmp4.m3u8",
+    "logo": "https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Deepto TV is known for serial dramas and entertainment programs.",
+    "country": "Bangladesh"
+  },
+  "SOMOY_NEWS_TV": {
+    "url": "https://tvsen6.aynaott.com/somoytv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Somoy News TV is a 24/7 Bangladeshi news channel.",
+    "country": "Bangladesh"
+  },
+  "T_SPORTS_HD": {
+    "url": "https://tvsen5.aynaott.com/tsports/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "T Sports is Bangladesh’s first dedicated sports TV channel.",
+    "country": "Bangladesh"
+  },
+  "GAZI_TV": {
+    "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Gazi TV (GTV) is popular for cricket and sports broadcasts.",
+    "country": "Bangladesh"
+  },
+  "DESH_TV": {
+    "url": "https://tvsen6.aynaott.com/deshtv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Desh TV is a Bangladeshi satellite TV channel.",
+    "country": "Bangladesh"
+  },
+  "BOISHAKHI_TV": {
+    "url": "https://tvsen6.aynaott.com/boishakhitv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/ec66cdf9538da75b08112f9ae2f151bc",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Boishakhi TV broadcasts entertainment and news programs.",
+    "country": "Bangladesh"
+  },
+  "CHANNEL_9": {
+    "url": "https://tvsen6.aynaott.com/channel9/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Channel 9 is a Bangladeshi satellite TV channel.",
+    "country": "Bangladesh"
+  },
+  "CHANNEL_24": {
+    "url": "https://tvsen6.aynaott.com/channel24/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/502b8de24fcfc4443c376270a6e45527",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Channel 24 is a popular Bangladeshi news channel.",
+    "country": "Bangladesh"
+  },
+  "ASIAN_TV": {
+    "url": "https://tvsen6.aynaott.com/asiantv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Asian TV is an entertainment-focused channel in Bangladesh.",
+    "country": "Bangladesh"
+  },
+  "ATN_NEWS": {
+    "url": "https://tvsen6.aynaott.com/atnnews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/8e9db8284bf110dce597f48674d1968a",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "ATN News is a 24/7 news channel in Bangladesh.",
+    "country": "Bangladesh"
+  },
+  "INDEPENDENT_TV": {
+    "url": "https://tvsen6.aynaott.com/independenttv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Independent TV is a private satellite news channel in Bangladesh.",
+    "country": "Bangladesh"
+  },
+  "SA_TV": {
+    "url": "https://tvsen6.aynaott.com/satv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "SA TV broadcasts news and entertainment programs.",
+    "country": "Bangladesh"
+  },
+  "DBC_NEWS": {
+    "url": "https://tvsen6.aynaott.com/dbcnews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/e8bb743022a2b6b0ee714bbdb2715cbe",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "DBC News is a 24-hour Bangladeshi news channel.",
+    "country": "Bangladesh"
+  },
+  "EKHON_TV": {
+    "url": "https://tvsen6.aynaott.com/ekhontv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/94ff4123b6c533d0332d63944ccf5868",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Ekhon TV is a Bangladeshi satellite news channel.",
+    "country": "Bangladesh"
+  },
+  "NEWS_24_BD": {
+    "url": "https://tvsen6.aynaott.com/news24/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "News 24 BD is a Bangladeshi news channel.",
+    "country": "Bangladesh"
+  },
+  "DURONTO_TV": {
+    "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Duronto TV is a children’s television channel in Bangladesh.",
+    "country": "Bangladesh"
+  },
+  "BANGLA_TV": {
+    "url": "https://tvsen6.aynaott.com/banglatv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Bangla TV is a Bangladeshi general entertainment channel.",
+    "country": "Bangladesh"
+  },
+  "EKATTOR_TV": {
+    "url": "https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/c69d4851784c5fefa6d0117653d227c3",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Ekattor TV is a 24-hour Bangladeshi news channel.",
+    "country": "Bangladesh"
+  },
+  "JAMUNA_TV": {
+    "url": "https://tvsen6.aynaott.com/jamunatv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Jamuna TV is a popular Bangladeshi news channel.",
+    "country": "Bangladesh"
+  },
+  "MOHONA_TV": {
+    "url": "https://tvsen6.aynaott.com/mohonatv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Mohona TV is a satellite television channel in Bangladesh.",
+    "country": "Bangladesh"
+  },
+  "NEXUS_TV": {
+    "url": "https://tvsen6.aynaott.com/nexustv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Nexus TV is a Bangladeshi television channel.",
+    "country": "Bangladesh"
+  },
+  "BIJOY_TV": {
+    "url": "https://tvsen6.aynaott.com/bijoytv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/589934eb6a1c264a0ee6bf6d82fad81c",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Bijoy TV is a Bangladeshi entertainment channel.",
+    "country": "Bangladesh"
+  },
+  "GLOBAL_TV": {
+    "url": "https://tvsen6.aynaott.com/globaltvhd/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Global TV is a Bangladeshi television channel.",
+    "country": "Bangladesh"
+  },
+  "ANANDA_TV": {
+    "url": "https://tvsen6.aynaott.com/anandatv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Ananda TV is a Bangladeshi satellite TV channel.",
+    "country": "Bangladesh"
+  },
+  "A_SPORTS": {
+    "url": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "A Sports is a sports television channel.",
+    "country": "International"
+  },
+  "CARTOON_NETWORK": {
+    "url": "https://tvsen5.aynaott.com/cartoonnetwork/index.fmp4.m3u8",
+    "logo": "https://s3.aynaott.com/storage/80d0b169bd027e8bf54a5e75f31d1d75",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Cartoon Network is an international children’s entertainment channel.",
+    "country": "International"
+  },
+  "PBS_KIDS": {
+    "url": "https://tvsen7.aynaott.com/pbskids/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/cd8ff1c9af0a4c0dcc67ea2bbd999c97",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "PBS Kids is an American children’s channel.",
+    "country": "International"
+  },
+  "DISNEY_JR": {
+    "url": "https://tvsen7.aynaott.com/disneyjr/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/8bf8ccf7bc01db3b8c4bc8576fb16f9d",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Disney Junior is an international children’s channel.",
+    "country": "International"
+  },
+  "NICKTOONS": {
+    "url": "https://tvsen5.aynaott.com/nicktoons/index.fmp4.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d3e8d014002832d32c029f445c105aae",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Nicktoons is an international children’s entertainment channel.",
+    "country": "International"
+  }
+  "NICKJR": {
+    "url": "https://tvsen5.aynaott.com/nickjr/index.fmp4.m3u8",
+    "logo": "https://s3.aynaott.com/storage/722bc45fb2bc26f967c2e22714095ad5",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "Nick Jr. is a children’s television channel featuring preschool-friendly shows.",
+    "country": "International"
+  },
+  "ALL_SPORTS_TELEVISION_NETWORK": {
+    "url": "https://tvsen6.aynaott.com/AllSportsTelevisionNetwork/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/cc04c0272fcd64bb11191f5859b731c4",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "All Sports Television Network broadcasts sports programming from around the world.",
+    "country": "International"
+  },
+  "DUBAI_SPORTS_1": {
+    "url": "https://tvsen6.aynaott.com/dubaisports1/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/5a8ac139e9c791c675ded04dd7f90529",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "Dubai Sports 1 is a UAE-based sports channel covering regional and global events.",
+    "country": "UAE"
+  },
+  "TALK_SPORTS": {
+    "url": "https://tvsen6.aynaott.com/talkSPORT/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/08ea1ff4e3ac6e32678e90d9e1fcff61",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "Talk Sport is a global sports radio and TV channel focused on live commentary and analysis.",
+    "country": "International"
+  },
+  "KTV_SPORTS_PLUS": {
+    "url": "https://tvsen6.aynaott.com/ktvsportsplus/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d9db3f2407053944af13981bed771305",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "KTV Sport Plus is a Kuwaiti sports channel covering local and international sports.",
+    "country": "Kuwait"
+  },
+  "SPORTS_FIRST_TV": {
+    "url": "https://tvsen6.aynaott.com/sportsfirsttv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/839a0449bfa64ce5ce33108db7ee6c37",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "Sports First TV is dedicated to live and recorded sports coverage worldwide.",
+    "country": "International"
+  },
+  "ADVENTURE_SPORTS_TV": {
+    "url": "https://tvsen6.aynaott.com/AdventureSportsTV/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/c2bc3e7024fddce26dfda56a01b34007",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "Adventure Sports TV broadcasts extreme and adventure sports content.",
+    "country": "International"
+  },
+  "MARQUEE_SPORTS_NETWORK": {
+    "url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/e8fe46b5eefb932bed78ddb9c1417d4f",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "Marquee Sports Network covers Chicago Cubs baseball and regional sports.",
+    "country": "USA"
+  },
+  "MORE_THEN_SPORTS_TV": {
+    "url": "https://tvsen6.aynaott.com/mtstv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/0a6bd46071b90d697a9dde4239e3bdd9",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "More Than Sports TV is focused on sports documentaries and analysis.",
+    "country": "International"
+  },
+  "NBC_SPORTS_BAY": {
+    "url": "https://tvsen6.aynaott.com/nbcSportsBayArea/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/c4fd1b5e1d4272920abc9faf383d9701",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "NBC Sports Bay Area is an American regional sports channel covering California teams.",
+    "country": "USA"
+  },
+  "NBC_SPORTS_BOSTON": {
+    "url": "https://tvsen6.aynaott.com/nbcSportsBoston/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a8173b7e17ca604438d75b3be15a75ae",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "NBC Sports Boston covers sports teams and events in the Boston area.",
+    "country": "USA"
+  },
+  "ORIGIN_SPORTS": {
+    "url": "https://tvsen6.aynaott.com/originsports/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a54e1bf56b063bb84fd41783d5102b67",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "Origin Sports features historical games and classic sports events.",
+    "country": "International"
+  },
+  "SPORTS_GRID": {
+    "url": "https://tvsen6.aynaott.com/SportsGrid/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/3f861fcc2ab5cbd79237ceebf0f33e36",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "Sports Grid is a sports wagering and analysis television network.",
+    "country": "USA"
+  },
+  "SWERVE_SPORTS": {
+    "url": "https://tvsen6.aynaott.com/SwerveSports/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/03316bcb3cfb5d242f189f288da807c5",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "Swerve Sports offers a variety of sports content including niche competitions.",
+    "country": "International"
+  },
+  "TSPORTS_7": {
+    "url": "https://tvsen6.aynaott.com/tsport7/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/71eeb40f82edb2a3c28fbfc8d79ecd71",
+    "tagline": "Channels",
+    "hd": true,
+    "k2": "",
+    "description": "Tsport 7 covers multiple sports events and live tournaments worldwide.",
+    "country": "International"
+  },
+  "XTREAM_SPORTS": {
+    "url": "https://tvsen6.aynaott.com/XtreamSports/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/195f5fde901dc4167245853f67eb043b",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Xtream Sports broadcasts live and recorded sports content.",
+    "country": "International"
+  },
+  "ISLAM_TV": {
+    "url": "https://tvsen6.aynaott.com/islam/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/2379c1a7c685f7ca6a096bbf1c95aab1",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Islam TV is a religious channel focusing on Islamic teachings.",
+    "country": "International"
+  },
+  "RTV_ISLAM": {
+    "url": "https://tvsen6.aynaott.com/rtvislam/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f71f649abc51984f09076ef6ee5c0d0c",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "RTV Islam is a dedicated Islamic channel from RTV network.",
+    "country": "Bangladesh"
+  },
+  "ABC_7_BAY": {
+    "url": "https://tvsen6.aynaott.com/ABC7Bay/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/95f5bd4eef3bf5b0ed0bc1d6953dfdd5",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "ABC 7 Bay Area provides news and local coverage from San Francisco Bay.",
+    "country": "USA"
+  },
+  "ABC_NEWS": {
+    "url": "https://tvsen6.aynaott.com/AbcNews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a9517064cd265264a1e94945be044152",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "ABC News is an American news television channel.",
+    "country": "USA"
+  },
+  "ABC_NEWS_NY": {
+    "url": "https://tvsen6.aynaott.com/ABCNewsNY/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/03b7f51535cc1bfe3f0fbfc6693ce601",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "ABC News New York covers breaking news and local stories.",
+    "country": "USA"
+  },
+  "AMERICANS_VOICE_NEWS": {
+    "url": "https://tvsen6.aynaott.com/AmiricansVoiceNews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/61d90e98d83e80bfea23c6b54d50d8e2",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Americans Voice News features conservative talk and US political news.",
+    "country": "USA"
+  },
+  "BEK_TV_NEWS": {
+    "url": "https://tvsen6.aynaott.com/BekTvNews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/29420483e1d1a686555efbfa4f7fb9f8",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "BEK TV News provides regional and national news coverage.",
+    "country": "USA"
+  },
+  "SPORTS_CONNECT": {
+    "url": "https://tvsen6.aynaott.com/SportsConnect/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/21844d114180cc501b70cee5102d3177",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Sports Connect airs sports events and commentary.",
+    "country": "International"
+  },
+  "CNN": {
+    "url": "https://tvsen6.aynaott.com/cnn/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d1c5e1f2498dbc018610f1586ab660e5",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "CNN (Cable News Network) provides international and US news coverage.",
+    "country": "USA"
+  },
+  "ALJAZEERA": {
+    "url": "https://tvsen6.aynaott.com/aljazeera/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9a95157d5bce721ea06594e8b63b4e6a",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Al Jazeera is a global news network based in Qatar.",
+    "country": "Qatar"
+  },
+  "DW_NEWS": {
+    "url": "https://tvsen6.aynaott.com/dwnews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9879197f1b6f27df923832cd06e82adb",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "DW News is Germany’s international news channel.",
+    "country": "Germany"
+  },
+  "NHK_WORLD": {
+    "url": "https://tvsen6.aynaott.com/nhkworld/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f4390c1bba69689aba959b0ca52505c3",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "NHK World is Japan’s international broadcasting service.",
+    "country": "Japan"
+  },
+  "BLOOMBERG_TV": {
+    "url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/4a87c14e67270d043613800c5d7b6251",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Bloomberg TV is a 24-hour global business and financial news channel.",
+    "country": "USA"
+  },
+  "BBC_AMERICA": {
+    "url": "https://tvsen6.aynaott.com/bbcamerica/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/487a661d04d34a99f04873e0a0d4af55",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "BBC America airs British and American TV shows and news.",
+    "country": "USA/UK"
+  },
+  "BTV_NATIONAL_HD": {
+    "url": "https://tvsen6.aynaott.com/btvhd/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a8f87ac6b4731011dcc61c957f56d47b",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "BTV National HD is the state-run television channel of Bangladesh.",
+    "country": "Bangladesh"
+  },
+  "AAKAASH_BANGLA_TV": {
+    "url": "https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/5883baa80bff7c66005cc9d63b26e645",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Aakaash Bangla TV is a Bengali general entertainment channel.",
+    "country": "India"
+  },
+  "R_PLUS": {
+    "url": "https://tvsen6.aynaott.com/Rplus/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/ce8cbde0c3d3f11583f2f25765db9667",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "R Plus is a Bengali news and infotainment television channel.",
+    "country": "India"
+  },
+  "R_PLUS_GOLD": {
+    "url": "https://tvsen6.aynaott.com/RplusGold/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/5acec30ce56099ac991cc2ed289aa920",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "R Plus Gold broadcasts Bengali entertainment and lifestyle programs.",
+    "country": "India"
+  },
+  "RUPSHI_BANGLA": {
+    "url": "https://tvsen6.aynaott.com/RupshiBangla/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a2e4c33ceb47390ffe673a946a749d79",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Rupshi Bangla is an Indian Bengali general entertainment channel.",
+    "country": "India"
+  },
+  "SANGEET_BANGLA": {
+    "url": "https://tvsen6.aynaott.com/SangeetBangla/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/90ef4ee59dd2a536c91e7ac13df8e558",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Sangeet Bangla is a 24-hour Bengali music channel.",
+    "country": "India"
+  },
+  "NEWS_TIME_BANGLA": {
+    "url": "https://tvsen6.aynaott.com/NewsTime/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a4026bfc5928a4abd66c10a5b8d07eba",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "News Time Bangla is a 24-hour Bengali news channel.",
+    "country": "India"
+  },
+  "REPUBLIC_BANGLA": {
+    "url": "https://tvsen5.aynaott.com/R_Bangla/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/68f655a765e55c45ef9d086cec71606c",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Republic Bangla is the Bengali-language news channel of Republic TV network.",
+    "country": "India"
+  },
+  "TV9_BANGLA": {
+    "url": "https://tvsen6.aynaott.com/TV9Bangla/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9abc522e7d57971c09e6a7c62714a09d",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "TV9 Bangla is a Bengali news channel from the TV9 Network.",
+    "country": "India"
+  },
+  "ZEE_24_GHANTA": {
+    "url": "https://tvsen6.aynaott.com/zee24/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/8f72b7b45026c70cf2dd23aa187f5d45",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Zee 24 Ghanta is a popular 24-hour Bengali news channel.",
+    "country": "India"
+  },
+  "NEWS_INDIA_24x7": {
+    "url": "https://tvsen5.aynaott.com/NewsIndia24x7/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9f4112fd1e33156e5d4101d60fdd3458",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "News India 24x7 is a Hindi news television channel.",
+    "country": "India"
+  },
+  "KOLKATA_TV": {
+    "url": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/74e02cf4a1fbd11e78275d819779e7e1",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Kolkata TV is a Bengali news channel broadcasting from Kolkata.",
+    "country": "India"
+  },
+  "HI_DOST": {
+    "url": "https://tvsen6.aynaott.com/HiDost/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/65bfd765b12b7a79aca246bf2ebc1363",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Hi Dost is a Hindi music and youth entertainment channel.",
+    "country": "India"
+  },
+  "DABANGG": {
+    "url": "https://tvsen6.aynaott.com/Dabangg/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/30e0db44c31b8f7fe50eb88f3ebcc5c3",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Dabangg TV is an Indian Hindi general entertainment channel.",
+    "country": "India"
+  },
+  "DHAMAAL": {
+    "url": "https://tvsen6.aynaott.com/Dhamaal/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a9bfa44f1b6d53e81088e9d443549b6a",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Dhamaal TV is an Indian Hindi entertainment channel.",
+    "country": "India"
+  },
+  "SHEMAROOTV": {
+    "url": "https://tvsen6.aynaott.com/ShemarooTV/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/42cf0233a6006f78541257f56e23c6f7",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "ShemarooTV streams Bollywood movies and shows.",
+    "country": "India"
+  },
+  "TAAZA_TV": {
+    "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/1fff0595da9963d1faf78a70126ce688",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Taaza TV is a regional Indian television channel.",
+    "country": "India"
+  },
+  "ASSAM_TALKS": {
+    "url": "https://tvsen7.aynaott.com/AssamTalks/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/281200f1a1a49c2210c9ae059fc77826",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Assam Talks is a popular Assamese news and infotainment channel.",
+    "country": "India"
+  },
+  "B4U_KADAK": {
+    "url": "https://tvsen7.aynaott.com/B4U_Kadak/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/489524ce63b0db739db032dc38320422",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "B4U Kadak airs Bollywood blockbuster movies and masala entertainment.",
+    "country": "India"
+  },
+  "GOLDMINES_MOVIES": {
+    "url": "https://tvsen6.aynaott.com/GoldminesMovies/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "Goldmines Movies channel offers action-packed dubbed films.",
+    "country": "India"
+  },
+  "NTV_Europe": {
+    "url": "https://tvsen7.aynaott.com/ntveurope/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/4c0efea4f87d343995fb661bad39a066",
+    "tagline": "Channels",
+    "hd": true,
+    "description": "NTV Europe is an international Bengali TV channel targeting NRBs.",
+    "country": "Bangladesh/Europe"
+  },
+  "MILLENNIUM_TV": {
+    "url": "https://tvsen7.aynaott.com/millenniumtv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/0aa1e3a22a6f3f2edbb7941b4e80eb6a",
+    "tagline": "Channels",
+    "hd": true,
+    "country": "Bangladesh/International",
+    "description": "Millennium TV is a Bangladeshi community television channel."
+  },
+  "MOVIE_BANGLA": {
+    "url": "https://tvsen7.aynaott.com/moviebangla/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d52461c6810c54bf3aa32518224b6066",
+    "tagline": "Channels",
+    "hd": true,
+    "country": "Bangladesh",
+    "description": "Movie Bangla airs Bangla movies and entertainment content."
+  },
+  "ATN_BANGLA_UK": {
+    "url": "https://tvsen7.aynaott.com/atnbanglauk/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/1b02c38cddb282f96c3ef8148ec1b39b",
+    "tagline": "Channels",
+    "hd": true,
+    "country": "UK",
+    "description": "ATN Bangla UK is the international broadcast of ATN Bangla for expatriates."
+  },
+  "8XM_MUSIC_HD": {
+    "url": "https://tvsen7.aynaott.com/8XMMusicHD/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/c38ec7f3fe9b59addb402995ed450246",
+    "tagline": "Channels",
+    "hd": true,
+    "country": "Pakistan",
+    "description": "8XM is a popular music television channel."
+  },
+  "T_SPORTS_HD": {
+    "url": "https://tvsen5.aynaott.com/tsports/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32",
+    "tagline": "Sports",
+    "hd": true,
+    "country": "Bangladesh",
+    "description": "T Sports is Bangladesh’s first dedicated sports TV channel."
+  },
+  "A_SPORTS": {
+    "url": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902",
+    "tagline": "Sports",
+    "hd": true,
+    "country": "Pakistan",
+    "description": "A Sports is Pakistan's first HD sports channel."
+  },
+  "ALL_SPORTS_TELEVISION_NETWORK": {
+    "url": "https://tvsen6.aynaott.com/AllSportsTelevisionNetwork/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/cc04c0272fcd64bb11191f5859b731c4",
+    "tagline": "Sports",
+    "hd": true,
+    "country": "International",
+    "description": "All Sports Television Network airs a wide range of global sports."
+  },
+  "DUBAI_SPORTS_1": {
+    "url": "https://tvsen6.aynaott.com/dubaisports1/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/5a8ac139e9c791c675ded04dd7f90529",
+    "tagline": "Sports",
+    "hd": true,
+    "country": "UAE",
+    "description": "Dubai Sports 1 is a sports channel from the United Arab Emirates."
+  },
+  "TALK_SPORTS": {
+    "url": "https://tvsen6.aynaott.com/talkSPORT/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/08ea1ff4e3ac6e32678e90d9e1fcff61",
+    "tagline": "Sports",
+    "hd": true,
+    "country": "UK",
+    "description": "Talk Sport is a UK-based sports radio and TV channel."
+  },
+  "KTV_SPORTS_PLUS": {
+    "url": "https://tvsen6.aynaott.com/ktvsportsplus/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d9db3f2407053944af13981bed771305",
+    "tagline": "Sports",
+    "hd": true,
+    "country": "Kuwait",
+    "description": "KTV Sport Plus is a sports channel from Kuwait."
+  },
+  "SPORTS_FIRST_TV": {
+    "url": "https://tvsen6.aynaott.com/sportsfirsttv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/839a0449bfa64ce5ce33108db7ee6c37",
+    "tagline": "Sports",
+    "hd": true,
+    "country": "International",
+    "description": "Sports First TV provides sports coverage and highlights."
+  },
+  "ADVENTURE_SPORTS_TV": {
+    "url": "https://tvsen6.aynaott.com/AdventureSportsTV/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/c2bc3e7024fddce26dfda56a01b34007",
+    "tagline": "Sports",
+    "hd": true,
+    "country": "International",
+    "description": "Adventure Sports TV focuses on extreme and adventure sports."
+  },
+  "MARGUEE_SPORTS_NETWORK": {
+    "url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/e8fe46b5eefb932bed78ddb9c1417d4f",
+    "tagline": "Sports",
+    "hd": true,
+    "country": "USA",
+    "description": "Marquee Sports Network is a regional sports network in the USA."
+  },
+  "NBC_SPORTS_BAY": {
+    "url": "https://tvsen6.aynaott.com/nbcSportsBayArea/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/c4fd1b5e1d4272920abc9faf383d9701",
+    "tagline": "Sports",
+    "hd": true,
+    "country": "USA",
+    "description": "NBC Sports Bay Area is a regional sports network in the USA."
+  },
+  "NBC_SPORTS_BOSTON": {
+    "url": "https://tvsen6.aynaott.com/nbcSportsBoston/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a8173b7e17ca604438d75b3be15a75ae",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "NBC Sports Boston covers local Boston sports including Celtics and regional programming.",
+    "country": "USA"
+  },
+  "ORIGIN_SPORTS": {
+    "url": "https://tvsen6.aynaott.com/originsports/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a54e1bf56b063bb84fd41783d5102b67",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Origin Sports delivers unique sports content and entertainment.",
+    "country": "International"
+  },
+  "SPORTS_GRID": {
+    "url": "https://tvsen6.aynaott.com/SportsGrid/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/3f861fcc2ab5cbd79237ceebf0f33e36",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "SportsGrid is a network focused on sports betting and analysis.",
+    "country": "USA"
+  },
+  "SWERVE_SPORTS": {
+    "url": "https://tvsen6.aynaott.com/SwerveSports/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/03316bcb3cfb5d242f189f288da807c5",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Swerve Sports streams a mix of international sporting events.",
+    "country": "International"
+  },
+  "TSPORT_7": {
+    "url": "https://tvsen6.aynaott.com/tsport7/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/71eeb40f82edb2a3c28fbfc8d79ecd71",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Tsport 7 provides sports coverage across multiple events.",
+    "country": "International"
+  },
+  "XTREAM_SPORTS": {
+    "url": "https://tvsen6.aynaott.com/XtreamSports/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/195f5fde901dc4167245853f67eb043b",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Xtream Sports streams live and recorded sports content.",
+    "country": "International"
+  },
+  "SPORTS_CONNECT": {
+    "url": "https://tvsen6.aynaott.com/SportsConnect/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/21844d114180cc501b70cee5102d3177",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Sports Connect covers a wide range of sporting events worldwide.",
+    "country": "International"
+  },
+  "BLOOMBERG_TV": {
+    "url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/4a87c14e67270d043613800c5d7b6251",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Bloomberg TV offers global business, market, and finance coverage.",
+    "country": "International"
+  },
+  "BLEAV_FOOTBALL": {
+    "url": "https://tvsen6.aynaott.com/BleavFootball/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/820ff2af0efdff9d3e0c445cfd058ad9",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Bleav Football features football-focused analysis and shows.",
+    "country": "USA"
+  },
+  "DAZN_WOMENS_FOOTBALL": {
+    "url": "https://tvsen6.aynaott.com/DAZNWomensFootball/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/3218a9ae87abf8d2b519fe02691fa667",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "DAZN Women's Football streams women's football leagues and tournaments.",
+    "country": "International"
+  },
+  "CRICKET_GOLD": {
+    "url": "https://tvsen6.aynaott.com/CricketGold/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a937f1337f26a5d6be1b0a6a2a8be6be",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Cricket Gold offers classic cricket matches and highlights.",
+    "country": "International"
+  },
+  "ABU_DHABI_SPORTS_1": {
+    "url": "https://tvsen6.aynaott.com/AbuDhabiSports1/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/6b89a8c47f1baf6d71b08c42839a6cc5",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Abu Dhabi Sports 1 covers sports from the UAE and beyond.",
+    "country": "UAE"
+  },
+  "ABU_DHABI_SPORTS_2": {
+    "url": "https://tvsen6.aynaott.com/AbuDhabiSports2/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/453d902185dcc267936532f159461715",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Abu Dhabi Sports 2 offers live sports events and tournaments.",
+    "country": "UAE"
+  },
+  "BAHRAIN_SPORTS_1": {
+    "url": "https://tvsen6.aynaott.com/BahrainSports1/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/e26289ce19a053b8a31d02a3d3d2cc78",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Bahrain Sports 1 features Bahraini and international sports coverage.",
+    "country": "Bahrain"
+  },
+  "CBS_SPORTS_HQ": {
+    "url": "https://tvsen6.aynaott.com/CBSSportsHQ/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/1a34d0fb7aa8f82e0147f142ea2ed2ec",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "CBS Sports HQ provides 24/7 sports news and live coverage.",
+    "country": "USA"
+  },
+  "CBS_SPORTS_NETWORK_USA": {
+    "url": "https://tvsen6.aynaott.com/CBSSportsNetwork/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/2e2a89ef3bb92339f235cfd8169d49d3",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "CBS Sports Network USA streams major sports events and live coverage.",
+    "country": "USA"
+  },
+  "DUBAI_SPORTS_2": {
+    "url": "https://tvsen6.aynaott.com/DubaiSports2/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/b2bb863e8e4b6c63d06fde2dd31bfdd7",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Dubai Sports 2 offers live sports from the Middle East.",
+    "country": "UAE"
+  },
+  "ERT_SPORTS_1": {
+    "url": "https://tvsen6.aynaott.com/ERTSports1/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d72dc144babfe40fb35620ee1c1822d1",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "ERT Sports 1 broadcasts Greek and international sports events.",
+    "country": "Greece"
+  },
+  "SPORTSMAN_CHANNEL": {
+    "url": "https://tvsen6.aynaott.com/SportsmanChannel/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/2b5e62112cbe7e6efc761b5062c344ed",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Sportsman Channel streams hunting, fishing, and outdoor sports.",
+    "country": "USA"
+  },
+  "TEN1_HD": {
+    "url": "https://tvsen5.aynaott.com/Ten1HD/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/1c7fee9e7809c7435ea09937ec261963",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Ten1 HD covers cricket and other popular sports from India.",
+    "country": "India"
+  },
+  "STAR_SPORT_SELECT_1": {
+    "url": "https://tvsen6.aynaott.com/spsel1/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/c63d1f7c9c6d3c0d0fa552bb141a7f57",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Star Sport Select 1 offers live cricket and other major sports events.",
+    "country": "India"
+  },
+  "WILLOW_HD_TV": {
+    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/ec104f6c336daca0e318a729f181e5b2",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Willow HD TV streams live cricket events from around the world.",
+    "country": "International"
+  },
+  "BT_SPORT_1": {
+    "url": "https://tvsen6.aynaott.com/btSport1/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9f913955280f14fc557d0c34df8bbd34",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "BT Sport 1 covers football, rugby, and other major sports.",
+    "country": "UK"
+  },
+  "FOX_SPORTS_1": {
+    "url": "https://tvsen7.aynaott.com/foxsports1/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/fc53f127352ff48d4495407c0083b17b",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "Fox Sports 1 offers live sports and sports news coverage.",
+    "country": "USA"
+  },
+  "TSN_1": {
+    "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/1552fc09ba15bbdb0f5305e29cb1db98",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "TSN 1 broadcasts Canadian and international sports content.",
+    "country": "Canada"
+  },
+  "TSN_3": {
+    "url": "https://tvsen7.aynaott.com/tsn3/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/dc6dfbda1b1fe9b075a3d559c089fb43",
+    "tagline": "Sports",
+    "hd": true,
+    "k2": "",
+    "description": "TSN 3 provides Canadian sports coverage and live events.",
+    "country": "Canada"
+  },
+  "ABC_7_BAY": {
+    "url": "https://tvsen6.aynaott.com/ABC7Bay/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/95f5bd4eef3bf5b0ed0bc1d6953dfdd5",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "ABC 7 Bay provides local news and updates from the Bay Area.",
+    "country": "USA"
+  },
+  "ABC_NEWS": {
+    "url": "https://tvsen6.aynaott.com/AbcNews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a9517064cd265264a1e94945be044152",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "ABC News streams 24/7 news coverage from the USA.",
+    "country": "USA"
+  },
+  "ABC_NEWS_NY": {
+    "url": "https://tvsen6.aynaott.com/ABCNewsNY/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/03b7f51535cc1bfe3f0fbfc6693ce601",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "ABC News NY covers local news from New York.",
+    "country": "USA"
+  },
+  "AMIRICANS_VOICE_NEWS": {
+    "url": "https://tvsen6.aynaott.com/AmiricansVoiceNews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/61d90e98d83e80bfea23c6b54d50d8e2",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "Amiricans Voice News provides political and social news coverage.",
+    "country": "USA"
+  },
+  "BBC_NEWS": {
+    "url": "https://tvsen6.aynaott.com/bbcnews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f48fd8e21c84d20403c84313d5e7024c",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "BBC News delivers global news coverage in real-time.",
+    "country": "UK"
+  },
+  "BEK_TV_NEWS": {
+    "url": "https://tvsen6.aynaott.com/BekTvNews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/29420483e1d1a686555efbfa4f7fb9f8",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "BEK TV News streams international and regional news updates.",
+    "country": "International"
+  },
+  "SOMOY_NEWS_TV": {
+    "url": "https://tvsen6.aynaott.com/somoytv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "Somoy News TV covers national and international news in Bangladesh.",
+    "country": "Bangladesh"
+  },
+  "CHANNEL_24": {
+    "url": "https://tvsen6.aynaott.com/channel24/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/502b8de24fcfc4443c376270a6e45527",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "Channel 24 provides latest news, politics, and entertainment updates.",
+    "country": "Bangladesh"
+  },
+  "ATN_NEWS": {
+    "url": "https://tvsen6.aynaott.com/atnnews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/8e9db8284bf110dce597f48674d1968a",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "ATN News streams breaking news and live events from Bangladesh.",
+    "country": "Bangladesh"
+  },
+  "INDEPENDENT_TV": {
+    "url": "https://tvsen6.aynaott.com/independenttv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "Independent TV offers news, talk shows, and current affairs coverage.",
+    "country": "Bangladesh"
+  },
+  "DBC_NEWS": {
+    "url": "https://tvsen6.aynaott.com/dbcnews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/e8bb743022a2b6b0ee714bbdb2715cbe",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "DBC News covers Bangladesh and international news updates.",
+    "country": "Bangladesh"
+  },
+  "EKHON_TV": {
+    "url": "https://tvsen6.aynaott.com/ekhontv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/94ff4123b6c533d0332d63944ccf5868",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "Ekhon TV streams news, current affairs, and live reporting from Bangladesh.",
+    "country": "Bangladesh"
+  },
+  "NEWS_24_BD": {
+    "url": "https://tvsen6.aynaott.com/news24/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "News 24 BD provides round-the-clock news coverage in Bangladesh.",
+    "country": "Bangladesh"
+  },
+  "EKATTOR_TV": {
+    "url": "https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/c69d4851784c5fefa6d0117653d227c3",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "Ekattor TV offers news, political updates, and live reporting.",
+    "country": "Bangladesh"
+  },
+  "JAMUNA_TV": {
+    "url": "https://tvsen6.aynaott.com/jamunatv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "Jamuna TV streams news and current affairs from Bangladesh.",
+    "country": "Bangladesh"
+  },
+  "CNN": {
+    "url": "https://tvsen6.aynaott.com/cnn/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d1c5e1f2498dbc018610f1586ab660e5",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "CNN provides international news and live coverage globally.",
+    "country": "International"
+  },
+  "ALJAZEERA": {
+    "url": "https://tvsen6.aynaott.com/aljazeera/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9a95157d5bce721ea06594e8b63b4e6a",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "Al Jazeera streams international news, documentaries, and live events.",
+    "country": "Qatar"
+  },
+  "DW_NEWS": {
+    "url": "https://tvsen6.aynaott.com/dwnews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9879197f1b6f27df923832cd06e82adb",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "DW News delivers global news coverage and documentaries from Germany.",
+    "country": "Germany"
+  },
+  "NHK_WORLD": {
+    "url": "https://tvsen6.aynaott.com/nhkworld/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f4390c1bba69689aba959b0ca52505c3",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "NHK World streams international news and Japanese updates.",
+    "country": "Japan"
+  },
+  "BBC_AMERICA": {
+    "url": "https://tvsen6.aynaott.com/bbcamerica/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/487a661d04d34a99f04873e0a0d4af55",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "BBC America provides news, entertainment, and US-focused updates.",
+    "country": "USA"
+  },
+  "FINANS_TURK": {
+    "url": "https://tvsen6.aynaott.com/Finans/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/978cc2842990d6c36d5b6d9453607775",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "Finans Turk streams business news and financial updates from Turkey.",
+    "country": "Turkey"
+  },
+  "ANB_NEWS": {
+    "url": "https://tvsen6.aynaott.com/ANB_News/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/803873850322e0ecd7fe606ba4fd114f",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "ANB News provides live news coverage and current affairs.",
+    "country": "Bangladesh"
+  },
+  "NEWS_1_INDIA": {
+    "url": "https://tvsen6.aynaott.com/News1India/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f69ebc31d4b3e6302515a9d6befb1973",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "News 1 India streams national news and live updates from India.",
+    "country": "India"
+  },
+  "SADHNA_PRIME_NEWS": {
+    "url": "https://tvsen6.aynaott.com/SadhnaPrimeNews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/60fb7c185546fa52900f1c976ed567f6",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "Sadhna Prime News offers news and current affairs coverage in India.",
+    "country": "India"
+  },
+  "TRT_WORLD": {
+    "url": "https://tvsen7.aynaott.com/TRTWorldHD/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/81f430c3ba8fca6161ee6532de19debd",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "TRT World streams global news and international affairs.",
+    "country": "Turkey"
+  },
+  "TV9_BHARATVARSH": {
+    "url": "https://tvsen7.aynaott.com/TV9Bharatvarsh/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/68378d37a50debbe39c5197efe602e81",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "TV9 Bharatvarsh provides live Indian news and updates.",
+    "country": "India"
+  },
+  "SKY_NEWS": {
+    "url": "https://tvsen5.aynaott.com/skynews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/128d0977af19a75a7fa3207f6808ed97",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "Sky News streams UK and international news 24/7.",
+    "country": "UK"
+  },
+  "HINDI_KHABAR": {
+    "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/752bf7ab5d6c8b76e93544ab9aa100f3",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "Hindi Khabar streams news and live updates from India.",
+    "country": "India"
+  },
+  "NEWS_NATION": {
+    "url": "https://tvsen7.aynaott.com/NewsNation/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/dd7a293bc5bfbc10e0f9bad0508f872b",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "News Nation offers 24/7 live news coverage from India.",
+    "country": "India"
+  },
+  "BHARAT_SAMACHAR": {
+    "url": "https://tvsen7.aynaott.com/BharatSamachar/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/c8f0ba85f27db97c0f51eca0589ccc4d",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "Bharat Samachar streams live news and updates from India.",
+    "country": "India"
+  },
+  "FOX_NEWS": {
+    "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d42881d389280575f8150a11375ef4fb",
+    "tagline": "News",
+    "hd": true,
+    "k2": "",
+    "description": "Fox News provides US and international news coverage.",
+    "country": "USA"
+  },
+  "BTV_WORLD": {
+    "url": "https://tvsen6.aynaott.com/btv_world/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a03665c6ba5aae42a29ad700effdcfca",
+    "tagline": "Bangla",
+    "hd": true,
+    "k2": "",
+    "description": "BTV World streams Bangladeshi news and cultural programs.",
+    "country": "Bangladesh"
+  },
+  "BTV_CTG": {
+    "url": "https://tvsen6.aynaott.com/btvctg/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd",
+    "tagline": "Bangla",
+    "hd": true,
+    "k2": "",
+    "description": "BTV CTG provides regional news and updates from Chittagong.",
+    "country": "Bangladesh"
+  },
+  "PEACE_TV_BANGLA_HD": {
+    "url": "https://tvsen7.aynaott.com/PeaceTvBanglaHD/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/c0b4732867d1b1b8d0ff8326073be46f",
+    "tagline": "Bangla",
+    "hd": true,
+    "k2": "",
+    "description": "Peace TV Bangla HD streams Islamic programs and news in Bangla.",
+    "country": "Bangladesh"
+  },
+  "TIME_TV_USA": {
+    "url": "https://tvsen7.aynaott.com/timetv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9bf1ba0b8818b41171793a48c165c9f3",
+    "tagline": "Bangla",
+    "hd": true,
+    "k2": "",
+    "description": "TIME TV USA streams Bangladeshi content for viewers in USA.",
+    "country": "USA"
+  },
+  "T_SPORTS_HD": {
+    "url": "https://tvsen5.aynaott.com/tsports/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32",
+    "tagline": "Bangla",
+    "hd": true,
+    "k2": "",
+    "description": "T Sports HD streams live sports, cricket, and football matches.",
+    "country": "Bangladesh"
+  },
+  "DISCOVERY_HD_BANGLA": {
+    "url": "https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/ec5f76b3e7135687627ffec2b324758f",
+    "tagline": "Bangla",
+    "hd": true,
+    "k2": "",
+    "description": "Discovery HD Bangla streams documentaries and entertainment programs in Bangla.",
+    "country": "Bangladesh"
+  },
+  "DURONTO_TV": {
+    "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc",
+    "tagline": "Kids",
+    "hd": true,
+    "k2": "",
+    "description": "Duronto TV streams kids' entertainment and cartoons in Bangla.",
+    "country": "Bangladesh"
+  },
+  "CARTOON_NETWORK": {
+    "url": "https://tvsen5.aynaott.com/cartoonnetwork/index.fmp4.m3u8",
+    "logo": "https://s3.aynaott.com/storage/80d0b169bd027e8bf54a5e75f31d1d75",
+    "tagline": "Kids",
+    "hd": true,
+    "k2": "",
+    "description": "Cartoon Network streams popular international cartoons for children.",
+    "country": "International"
+  },
+  "PBS_KIDS": {
+    "url": "https://tvsen7.aynaott.com/pbskids/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/cd8ff1c9af0a4c0dcc67ea2bbd999c97",
+    "tagline": "Kids",
+    "hd": true,
+    "k2": "",
+    "description": "PBS Kids streams educational and entertaining programs for children.",
+    "country": "USA"
+  },
+  "DISNEY_JR": {
+    "url": "https://tvsen7.aynaott.com/disneyjr/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/8bf8ccf7bc01db3b8c4bc8576fb16f9d",
+    "tagline": "Kids",
+    "hd": true,
+    "k2": "",
+    "description": "Disney JR streams popular kids' shows and cartoons.",
+    "country": "International"
+  },
+  "NICKTOONS": {
+    "url": "https://tvsen5.aynaott.com/nicktoons/index.fmp4.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d3e8d014002832d32c029f445c105aae",
+    "tagline": "Kids",
+    "hd": true,
+    "k2": "",
+    "description": "Nicktoons streams animated series for kids and teenagers.",
+    "country": "International"
+  },
+  "NICKJR": {
+    "url": "https://tvsen5.aynaott.com/nickjr/index.fmp4.m3u8",
+    "logo": "https://s3.aynaott.com/storage/722bc45fb2bc26f967c2e22714095ad5",
+    "tagline": "Kids",
+    "hd": true,
+    "k2": "",
+    "description": "Nick Jr streams educational and fun cartoons for preschoolers.",
+    "country": "International"
+  },
+  "3ABN_KIDS": {
+    "url": "https://tvsen6.aynaott.com/3abnkids/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/0229450bbd66d8e761566cd49d80c5fe",
+    "tagline": "Kids",
+    "hd": true,
+    "k2": "",
+    "description": "3ABN Kids streams Christian programs and kids’ content.",
+    "country": "International"
+  },
+  "DIOS_TE_VE_KIDS": {
+    "url": "https://tvsen6.aynaott.com/diostevekids/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/350e9d008f0ec0b9c199e56bbc7cf43a",
+    "tagline": "Kids",
+    "hd": true,
+    "k2": "",
+    "description": "Dios Te Ve Kids streams religious and educational programs for children.",
+    "country": "International"
+  },
+  "FOREVER_KIDS": {
+    "url": "https://tvsen6.aynaott.com/ForeverKids/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/dc6a6988bf98b389a5f93b58424ac625",
+    "tagline": "Kids",
+    "hd": true,
+    "k2": "",
+    "description": "Forever Kids streams fun and educational content for kids.",
+    "country": "International"
+  },
+  "KIDS_CARTOON_MOVIES": {
+    "url": "https://tvsen6.aynaott.com/kidsCartoonMovies/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/96b3ea45751da8a6dc7a16ea94666dcb",
+    "tagline": "Kids",
+    "hd": true,
+    "k2": "",
+    "description": "Kids Cartoon Movies streams animated movies and cartoons for children.",
+    "country": "International"
+  },
+  "KIDS_PRANG_TV": {
+    "url": "https://tvsen6.aynaott.com/KidsPrangTV/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/b185552caee43053c62e46de26b1457a",
+    "tagline": "Kids",
+    "hd": true,
+    "k2": "",
+    "description": "Kids Prang TV streams cartoons and kids entertainment shows.",
+    "country": "International"
+  },
+  "M_NET_KIDS": {
+    "url": "https://tvsen6.aynaott.com/MNetKids/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/0b81808a440086d6b3ae6753cbd0cf25",
+    "tagline": "Kids",
+    "hd": true,
+    "k2": "",
+    "description": "M NET Kids streams animated and children’s programs.",
+    "country": "International"
+  },
+  "MOONBUG_KIDS": {
+    "url": "https://tvsen6.aynaott.com/MoonbugKids/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9b417f8a796216ce10c12ad10bb8ff05",
+    "tagline": "Kids",
+    "hd": true,
+    "k2": "",
+    "description": "Moonbug Kids streams animated stories and kids programs.",
+    "country": "International"
+  },
+  "PLUTO_TV_KIDS_ANIMATION": {
+    "url": "https://tvsen6.aynaott.com/PlutoTvKidsAnimation/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/dafbbc4a6f1b676fd5ca7cb3f73bc8bd",
+    "tagline": "Kids",
+    "hd": true,
+    "k2": "",
+    "description": "Pluto TV Kids Animation streams cartoons and children’s shows 24/7.",
+    "country": "International"
+  },
+  "TVC_ARABIC_KIDS": {
+    "url": "https://tvsen6.aynaott.com/TVCArabicKids/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a94bbf2609a31f9a50b36c6d924aa387",
+    "tagline": "Kids",
+    "hd": true,
+    "description": "TVC Arabic Kids streams cartoons and educational programs for children.",
+    "country": "Arabic"
+  },
+  "KIDS_ZONE": {
+    "url": "https://tvsen7.aynaott.com/KidsZoneHD/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/534f8e318cd3f451a828f4fd244d2c3b",
+    "tagline": "Kids",
+    "hd": true,
+    "description": "Kids Zone streams fun and entertaining content for children.",
+    "country": "International"
+  },
+  "DISNEY_CHANNEL": {
+    "url": "https://tvsen7.aynaott.com/disney/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/750b284beb0b3639790dbc183b008901",
+    "tagline": "Kids",
+    "hd": true,
+    "description": "Disney Channel streams popular cartoons and family shows for kids.",
+    "country": "International"
+  },
+  "DISNEY_XD": {
+    "url": "https://tvsen5.aynaott.com/disneyxd/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/3817227a6b180dc147a89c2b667acf50",
+    "tagline": "Kids",
+    "hd": true,
+    "description": "Disney XD streams animated and action shows for kids and teens.",
+    "country": "International"
+  },
+  "FAMILY_JR": {
+    "url": "https://tvsen5.aynaott.com/familyjr/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a4430d70a74aab1c1a284f4dae8131df",
+    "tagline": "Kids",
+    "hd": true,
+    "description": "Family JR streams entertaining content for children.",
+    "country": "International"
+  },
+  "NICKELODEON": {
+    "url": "https://tvsen7.aynaott.com/nicklodean/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/7872e438f032c00fb8699fe7e57a5dc9",
+    "tagline": "Kids",
+    "hd": true,
+    "description": "Nickelodeon streams cartoons and kids’ entertainment programs.",
+    "country": "International"
+  },
+  "TEEN_NICK": {
+    "url": "https://tvsen7.aynaott.com/teennick/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/26da9dc3da3c13a1b8476af11a934105",
+    "tagline": "Kids",
+    "hd": true,
+    "description": "Teen Nick streams shows and cartoons for teenagers.",
+    "country": "International"
+  },
+  "UNIVERSAL_KIDS": {
+    "url": "https://tvsen5.aynaott.com/universalkids/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/34b34ea697a61867328a54056832957b",
+    "tagline": "Kids",
+    "hd": true,
+    "description": "Universal Kids streams family-friendly shows and cartoons.",
+    "country": "International"
+  },
+  "YTV": {
+    "url": "https://tvsen6.aynaott.com/ytv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/072dcedd6c65b98d813ab23641f28255",
+    "tagline": "Kids",
+    "hd": true,
+    "description": "YTV streams animated and youth entertainment programs.",
+    "country": "International"
+  },
+  "B4U_MUSIC": {
+    "url": "https://tvsen6.aynaott.com/b4umusic/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d1cf092bb1408a2f79185a307880f4f7",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "B4u Music streams Hindi music videos and programs.",
+    "country": "India"
+  },
+  "B4U_HITZ": {
+    "url": "https://tvsen7.aynaott.com/B4UHitz/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f433e71ec6155b0e25addb5a73fcfb55",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "B4U Hitz streams popular Hindi music hits.",
+    "country": "India"
+  },
+  "B4U_MOVIES_INDIA": {
+    "url": "https://tvsen7.aynaott.com/B4U_Movies_India/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/0e9aa42713fcb1abb4b54219666e7d38",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "B4U Movies India streams Bollywood movies and shows.",
+    "country": "India"
+  },
+  "B_FLIX": {
+    "url": "https://tvsen6.aynaott.com/Bflix/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/0242756be198ccca46412fd0dc7b4c8d",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "B Flix streams Hindi movies and entertainment content.",
+    "country": "India"
+  },
+  "GOLDMINES": {
+    "url": "https://tvsen6.aynaott.com/Goldmines/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d6dd2e3ffede99b3f1d7d4fb8f5061a5",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Goldmines streams Bollywood movies and shows.",
+    "country": "India"
+  },
+  "GOLDMINES_BOLLYWOOD": {
+    "url": "https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Goldmines Bollywood streams Hindi movies and popular entertainment.",
+    "country": "India"
+  },
+  "DANGAL": {
+    "url": "https://tvsen6.aynaott.com/Dangal/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/3dfef9c749495740ac0ee09d2545f042",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Dangal streams popular Hindi movies and shows.",
+    "country": "India"
+  },
+  "THEQ": {
+    "url": "https://tvsen6.aynaott.com/TheQ/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/bcb9a31947ba4e5229e1148404a50d58",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "TheQ broadcasts Hindi entertainment shows.",
+    "country": "India"
+  },
+
+  "DHAMAAL": {
+    "url": "https://tvsen6.aynaott.com/Dhamaal/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a9bfa44f1b6d53e81088e9d443549b6a",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Dhamaal provides Hindi movie content.",
+    "country": "India"
+  },
+  "DABANGG": {
+    "url": "https://tvsen6.aynaott.com/Dabangg/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/30e0db44c31b8f7fe50eb88f3ebcc5c3",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Dabangg streams Hindi movies and shows.",
+    "country": "India"
+  },
+  "HIDOST": {
+    "url": "https://tvsen6.aynaott.com/HiDost/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/65bfd765b12b7a79aca246bf2ebc1363",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Hi Dost features Hindi entertainment programs.",
+    "country": "India"
+  },
+  "8XM_MUSIC_HD": {
+    "url": "https://tvsen7.aynaott.com/8XMMusicHD/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/c38ec7f3fe9b59addb402995ed450246",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "8XM Music HD streams Hindi music videos.",
+    "country": "India"
+  },
+  "APN": {
+    "url": "https://tvsen6.aynaott.com/APN/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/39ff963a196065a3355d5760d159746d",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "APN broadcasts news and Hindi shows.",
+    "country": "India"
+  },
+  "9X_JHAKAAS": {
+    "url": "https://tvsen6.aynaott.com/9X_Jhakaas/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/7a2727cca408ab9b649429909838d361",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "9x Jhakaas features Hindi music shows.",
+    "country": "India"
+  },
+  "9XM": {
+    "url": "https://tvsen6.aynaott.com/9xm/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d7c72d1fa7349c119a91fc51875b78d3",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "9XM broadcasts Hindi music and entertainment.",
+    "country": "India"
+  },
+  "MANORANJAN_MOVIES": {
+    "url": "https://tvsen6.aynaott.com/ManoranjanMovies/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d17aa63ce5887296d1aa9b7f0388ddb4",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Manoranjan Movies streams popular Hindi movies and shows.",
+    "country": "India"
+  },
+  "MASTIII_MUSIC": {
+    "url": "https://tvsen6.aynaott.com/mastimusic/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f18b40a9e01972f1737ab4c4a4bbbceb",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Mastiii Music streams popular Hindi music channels.",
+    "country": "India"
+  },
+  "MUSIC_INDIA": {
+    "url": "https://tvsen6.aynaott.com/MusicIndia/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9c45627c28eec88cac28473afd498f0e",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Music India streams popular Hindi music programs and shows.",
+    "country": "India"
+  },
+  "9X_JALWA": {
+    "url": "https://tvsen6.aynaott.com/9xjalwa/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/5d33e8abef6707f38350bf94172007ac",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "9x Jalwa streams popular Hindi music videos.",
+    "country": "India"
+  },
+  "9X_TASHAN": {
+    "url": "https://tvsen6.aynaott.com/9X_Tashan/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/1dde08de367f28f0934af20310cc8d13",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "9X Tashan streams latest Hindi music content.",
+    "country": "India"
+  },
+  "ANB_NEWS": {
+    "url": "https://tvsen6.aynaott.com/ANB_News/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/803873850322e0ecd7fe606ba4fd114f",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "ANB News streams latest news in Hindi.",
+    "country": "India"
+  },
+  "DHINCHAAK": {
+    "url": "https://tvsen6.aynaott.com/Dhinchaak/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/23190c1fbf811928410cf917250d6aa2",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Dhinchaak streams popular Hindi entertainment content.",
+    "country": "India"
+  },
+  "KHUSHBOO": {
+    "url": "https://tvsen6.aynaott.com/Khushboo/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f52f1e1bf297eb0b755629d1009c50b5",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Khushboo streams popular Hindi TV shows and entertainment.",
+    "country": "India"
+  },
+  "MANORANJAN_TV": {
+    "url": "https://tvsen6.aynaott.com/ManoranjanTV/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/1519c2d5dc918d992b1ff360a53910cb",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Manoranjan TV streams Hindi entertainment and movies.",
+    "country": "India"
+  },
+  "NETWORK_10": {
+    "url": "https://tvsen6.aynaott.com/Network10/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/cb1a6dd677fb40e88847218c047d6bc3",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Network 10 streams popular Hindi TV content and programs.",
+    "country": "India"
+  },
+  "NEWS_1_INDIA": {
+    "url": "https://tvsen6.aynaott.com/News1India/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f69ebc31d4b3e6302515a9d6befb1973",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "News 1 India streams latest Hindi news updates.",
+    "country": "India"
+  },
+  "REPUBLIC_TV_BHARAT": {
+    "url": "https://tvsen6.aynaott.com/RepublicTVBharat/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/31c1a7c92224ec3e75190ec35d772f93",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Republic TV Bharat streams Hindi news and current affairs.",
+    "country": "India"
+  },
+  "SADHNA_PRIME_NEWS": {
+    "url": "https://tvsen6.aynaott.com/SadhnaPrimeNews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/60fb7c185546fa52900f1c976ed567f6",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Sadhna Prime News streams Hindi news channels and updates.",
+    "country": "India"
+  },
+  "RONGEEN_TV": {
+    "url": "https://tvsen7.aynaott.com/RongeenTV/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/76d4392c02aa3008cbc93f1c9fea25c1",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Rongeen TV streams popular Hindi entertainment and movies.",
+    "country": "India"
+  },
+  "MOVIE_LIVE": {
+    "url": "https://tvsen7.aynaott.com/Movielive/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/8aae455f5e8f16af418a7589758addd3",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Movie live streams latest Hindi movies.",
+    "country": "India"
+  },
+  "MOVIE_TODAY": {
+    "url": "https://tvsen7.aynaott.com/MovieToday/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/94bb9a6d5b3ff12c6e686c3401f67da6",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Movie Today streams popular Hindi movies and shows.",
+    "country": "India"
+  },
+  "DHAMAKA_MOVIES": {
+    "url": "https://tvsen7.aynaott.com/DhamakaMovies/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/ebe34fb8603a2550deb3c46193b03701",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Dhamaka Movies streams latest Hindi movies.",
+    "country": "India"
+  },
+  "TV9_BHARATVARSH": {
+    "url": "https://tvsen7.aynaott.com/TV9Bharatvarsh/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/68378d37a50debbe39c5197efe602e81",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "TV9 Bharatvarsh streams latest Hindi news.",
+    "country": "India"
+  },
+  "SONY_TV_HD": {
+    "url": "https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/838ac6ede3fca74f793cde5dccabf3c4",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Sony TV HD streams Hindi entertainment and serials.",
+    "country": "India"
+  },
+  "HINDI_KHABAR": {
+    "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/752bf7ab5d6c8b76e93544ab9aa100f3",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "Hindi Khabar streams Hindi news updates.",
+    "country": "India"
+  },
+  "NEWS_NATION": {
+    "url": "https://tvsen7.aynaott.com/NewsNation/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/dd7a293bc5bfbc10e0f9bad0508f872b",
+    "tagline": "Hindi",
+    "hd": true,
+    "description": "News Nation streams latest Hindi news programs.",
+    "country": "India"
+  },
+  "ISLAM_TV": {
+    "url": "https://tvsen6.aynaott.com/islam/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/2379c1a7c685f7ca6a096bbf1c95aab1",
+    "tagline": "English",
+    "hd": true,
+    "description": "Islam TV streams English Islamic content and programs.",
+    "country": "International"
+  },
+  "ABC_NEWS": {
+    "url": "https://tvsen6.aynaott.com/AbcNews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a9517064cd265264a1e94945be044152",
+    "tagline": "English",
+    "hd": true,
+    "description": "ABC News streams latest English news programs.",
+    "country": "International"
+  },
+  "ABC_NEWS_NY": {
+    "url": "https://tvsen6.aynaott.com/ABCNewsNY/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/03b7f51535cc1bfe3f0fbfc6693ce601",
+    "tagline": "English",
+    "hd": true,
+    "description": "ABC News NY streams live English news from New York.",
+    "country": "International"
+  },
+  "AMERICANS_VOICE_NEWS": {
+    "url": "https://tvsen6.aynaott.com/AmiricansVoiceNews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/61d90e98d83e80bfea23c6b54d50d8e2",
+    "tagline": "English",
+    "hd": true,
+    "description": "Americans Voice News streams live English news content.",
+    "country": "International"
+  },
+  "BBC_NEWS": {
+    "url": "https://tvsen6.aynaott.com/bbcnews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f48fd8e21c84d20403c84313d5e7024c",
+    "tagline": "English",
+    "hd": true,
+    "description": "BBC News streams live English news globally.",
+    "country": "International"
+  },
+  "BEK_TV_NEWS": {
+    "url": "https://tvsen6.aynaott.com/BekTvNews/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/29420483e1d1a686555efbfa4f7fb9f8",
+    "tagline": "English",
+    "hd": true,
+    "description": "BEK TV News streams English news programs live.",
+    "country": "International"
+  },
+  "GLOBAL_SOCIL_TV": {
+    "url": "https://tvsen6.aynaott.com/GlobalSocilTV/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/713116c1c6ed94ad2d198026f6556d49",
+    "tagline": "English",
+    "hd": true,
+    "description": "Global Socil TV streams international social content.",
+    "country": "International"
+  },
+  "RDS_SOCIAL_TV": {
+    "url": "https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a756b8c8a5f6cf65140f84ee26cfedf8",
+    "tagline": "English",
+    "hd": true,
+    "description": "RDS Social TV streams social media related content in English.",
+    "country": "International"
+  },
+  "AFROTURK_TV": {
+    "url": "https://tvsen6.aynaott.com/AfroturkTV/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f4e08ab98f26325954871671ab4716df",
+    "tagline": "English",
+    "hd": true,
+    "description": "Afroturk TV streams English and African Turkish content.",
+    "country": "International"
+  },
+  "FINANS_TURK": {
+    "url": "https://tvsen6.aynaott.com/Finans/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/978cc2842990d6c36d5b6d9453607775",
+    "tagline": "English",
+    "hd": true,
+    "description": "Finans Turk streams financial and business news in English.",
+    "country": "International"
+  },
+  "HBO": {
+    "url": "https://tvsen5.aynaott.com/hbo/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/2576d772b73b7bc7535cdfe4c656a56f",
+    "tagline": "English",
+    "hd": true,
+    "description": "HBO streams premium English movies and shows.",
+    "country": "International"
+  },
+  "DISCOVERY_TURBO": {
+    "url": "https://tvsen6.aynaott.com/discovery_turbo/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/4dd4da17998dfdf28ffbcd721966889d",
+    "tagline": "English",
+    "hd": true,
+    "description": "Discovery Turbo streams automotive and technology content.",
+    "country": "International"
+  },
+  "FOX_BUSINESS": {
+    "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/544a69f01c5cdfb1647fb2805dba72a5",
+    "tagline": "English",
+    "hd": true,
+    "description": "Fox Business streams financial news and analysis.",
+    "country": "International"
+  },
+  "FOX_5": {
+    "url": "https://tvsen6.aynaott.com/fox5/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/5c1c4226b2c12b3c0bb3c258700f72d0",
+    "tagline": "English",
+    "hd": true,
+    "description": "Fox 5 streams general English TV content.",
+    "country": "International"
+  },
+  "TRT_WORLD": {
+    "url": "https://tvsen7.aynaott.com/TRTWorldHD/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/81f430c3ba8fca6161ee6532de19debd",
+    "tagline": "English",
+    "hd": true,
+    "description": "TRT World streams international news in English.",
+    "country": "International"
+  },
+  "DISCOVERY_FAMILY": {
+    "url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/1286549bfbdf6c3b4ff1f259b4d52bb4",
+    "tagline": "English",
+    "hd": true,
+    "description": "Discovery Family streams family-friendly English shows.",
+    "country": "International"
+  },
+  "ANIMAL_PLANET_HD": {
+    "url": "https://tvsen6.aynaott.com/animal_planet_hd/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/0416cc63326da27ad8ec18fb91840c36",
+    "tagline": "English",
+    "hd": true,
+    "description": "Animal Planet HD streams wildlife and nature programs.",
+    "country": "International"
+  },
+  "FOOD_NETWORK": {
+    "url": "https://tvsen6.aynaott.com/foodnetwork/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/6c897d97bb157cb69096cffd1163faff",
+    "tagline": "English",
+    "hd": true,
+    "description": "Food Network streams cooking shows and culinary content.",
+    "country": "International"
+  },
+  "NAT_GEO_TV": {
+    "url": "https://tvsen6.aynaott.com/natgeo/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/67a48ff99e888817617ed26665586776",
+    "tagline": "English",
+    "hd": true,
+    "description": "Nat Geo TV streams nature, science, and exploration programs.",
+    "country": "International"
+  },
+  "TLC_HD": {
+    "url": "https://tvsen6.aynaott.com/tlc_hd/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/dcd3d2b430a0a2b2949cacaa5486d850",
+    "tagline": "English",
+    "hd": true,
+    "description": "TLC HD streams lifestyle and reality TV shows.",
+    "country": "International"
+  },
+  "TRAVEL_CHANNEL": {
+    "url": "https://tvsen6.aynaott.com/travelxp/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/e6a7b2f60f6b1f0012bcf14140341435",
+    "tagline": "English",
+    "hd": true,
+    "description": "Travel Channel streams travel documentaries and shows.",
+    "country": "International"
+  },
+  "IBTV_USA": {
+    "url": "https://tvsen7.aynaott.com/ibtvusa/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f35737db9b254d12a393044bb17ee529",
+    "tagline": "English",
+    "hd": true,
+    "description": "IBTV USA streams international news and programs.",
+    "country": "USA"
+  },
+  "WEATHER_CHANNEL": {
+    "url": "https://tvsen6.aynaott.com/TheWeatherChannel/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/ee930f871ee3949c9f8a7a059ec91fe3",
+    "tagline": "English",
+    "hd": true,
+    "description": "The Weather Channel streams weather forecasts and related programs.",
+    "country": "International"
+  },
+  "CNBC_TV": {
+    "url": "https://tvsen6.aynaott.com/cnbc/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/0880d5e60287318406fff86322916ff7",
+    "tagline": "English",
+    "hd": true,
+    "description": "CNBC TV streams financial news and market updates.",
+    "country": "International"
+  },
+  "CBS_TV": {
+    "url": "https://tvsen7.aynaott.com/cbs/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/6f8c834cf47cf1501a62581699732319",
+    "tagline": "English",
+    "hd": true,
+    "description": "CBS TV streams general English television content.",
+    "country": "USA"
+  },
+  "CP24": {
+    "url": "https://tvsen6.aynaott.com/cp24/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/4e21114ecbe7c117e3e6fd31a062bb71",
+    "tagline": "English",
+    "hd": true,
+    "description": "CP 24 streams Canadian news and updates.",
+    "country": "Canada"
+  },
+  "MTV": {
+    "url": "https://tvsen6.aynaott.com/mtv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/1fbfc7fa968ff490b35b7b5cf1db4508",
+    "tagline": "English",
+    "hd": true,
+    "description": "MTV streams music, reality shows, and youth entertainment.",
+    "country": "International"
+  },
+  "USA_TV": {
+    "url": "https://tvsen6.aynaott.com/usa/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/4a8c4ef5769fdd11b640dcf5795221bd",
+    "tagline": "English",
+    "hd": true,
+    "description": "USA TV streams general entertainment and news programs.",
+    "country": "USA"
+  },
+  "MSNBC_NEWS": {
+    "url": "https://tvsen6.aynaott.com/msnbc/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f8c19ede8d86895e54e804d2731e81b4",
+    "tagline": "English",
+    "hd": true,
+    "description": "MSNBC News streams breaking news and political programs.",
+    "country": "USA"
+  },
+  "ISLAM_TV": {
+    "url": "https://tvsen6.aynaott.com/islam/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/2379c1a7c685f7ca6a096bbf1c95aab1",
+    "tagline": "Religious",
+    "hd": true,
+    "description": "Islam TV streams Islamic religious programs.",
+    "country": "International"
+  },
+  "RTV_ISLAM": {
+    "url": "https://tvsen6.aynaott.com/rtvislam/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f71f649abc51984f09076ef6ee5c0d0c",
+    "tagline": "Religious",
+    "hd": true,
+    "description": "RTV Islam streams Islamic religious content.",
+    "country": "International"
+  },
+  "AL_ZAHAR_TV_TURKIC": {
+    "url": "https://tvsen6.aynaott.com/AlZaharTVTurkic/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/1c85326769e43577ea7b6b73bb16ba06",
+    "tagline": "Religious",
+    "hd": true,
+    "description": "Al-Zahar TV Turkic streams Islamic religious programs in Turkic language.",
+    "country": "International"
+  },
+  "IQRA_BANGLA": {
+    "url": "https://tvsen5.aynaott.com/iqrabangla/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/19e62cfd082b5cd7b254fb9f75f2f763",
+    "tagline": "Religious",
+    "hd": true,
+    "description": "Iqra Bangla streams Islamic religious content in Bangla.",
+    "country": "Bangladesh"
+  },
+  "TV_ONE": {
+    "url": "https://tvsen5.aynaott.com/tvone/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/2a5dd1494cbeb28bfa70ba2b7d8682e1",
+    "tagline": "Religious",
+    "hd": true,
+    "description": "TV ONE streams Islamic religious programs.",
+    "country": "Bangladesh"
+  },
+  "PEACE_TV_BANGLA_HD": {
+    "url": "https://tvsen7.aynaott.com/PeaceTvBanglaHD/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/c0b4732867d1b1b8d0ff8326073be46f",
+    "tagline": "Religious",
+    "hd": true,
+    "description": "Peace TV Bangla HD streams Islamic content in Bangla.",
+    "country": "Bangladesh"
+  },
+  "PEACE_TV_URDU_HD": {
+    "url": "https://tvsen6.aynaott.com/PeaceTVUrduHD/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/0474144be69d57b0cabcb3245f032404",
+    "tagline": "Religious",
+    "hd": true,
+    "description": "Peace TV Urdu HD streams Islamic content in Urdu.",
+    "country": "Pakistan"
+  },
+  "CHANNEL_WIN": {
+    "url": "https://tvsen6.aynaott.com/ChannelWin/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/74482456eb20e9afa811293a6efcc703",
+    "tagline": "Religious",
+    "hd": true,
+    "description": "Channel Win streams Islamic religious programs.",
+    "country": "International"
+  },
+  "QURAN_TV": {
+    "url": "https://tvsen6.aynaott.com/qurantv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/35088d7015b1509b2c9cbc94503d5a6e",
+    "tagline": "Religious",
+    "hd": true,
+    "description": "Quran TV streams Quranic recitations and Islamic programs.",
+    "country": "International"
+  },
+  "SUNNAH_TV": {
+    "url": "https://tvsen6.aynaott.com/sunnahtv/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/965c0999ab09ebcf1c9f5803c8309460",
+    "tagline": "Religious",
+    "hd": true,
+    "description": "SUNNAH TV streams Islamic religious content and teachings.",
+    "country": "International"
+  },
+  "GLOBAL_SOCIL_TV": {
+    "url": "https://tvsen6.aynaott.com/GlobalSocilTV/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/713116c1c6ed94ad2d198026f6556d49",
+    "tagline": "Movie",
+    "hd": true,
+    "description": "Global Socil TV streams international movies and entertainment.",
+    "country": "International"
+  },
+  "MANORANJAN_MOVIES": {
+    "url": "https://tvsen6.aynaott.com/ManoranjanMovies/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d17aa63ce5887296d1aa9b7f0388ddb4",
+    "tagline": "Movie",
+    "hd": true,
+    "description": "Manoranjan Movies streams Bollywood and regional movies.",
+    "country": "India"
+  },
+  "MOVIE_LIVE": {
+    "url": "https://tvsen7.aynaott.com/Movielive/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/8aae455f5e8f16af418a7589758addd3",
+    "tagline": "Movie",
+    "hd": true,
+    "description": "Movie live streams latest movies and cinema content.",
+    "country": "International"
+  },
+  "MOVIE_TODAY": {
+    "url": "https://tvsen7.aynaott.com/MovieToday/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/94bb9a6d5b3ff12c6e686c3401f67da6",
+    "tagline": "Movie",
+    "hd": true,
+    "description": "Movie Today streams trending movies and TV films.",
+    "country": "International"
+  },
+  "DHAMAKA_MOVIES": {
+    "url": "https://tvsen7.aynaott.com/DhamakaMovies/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/ebe34fb8603a2550deb3c46193b03701",
+    "tagline": "Movie",
+    "hd": true,
+    "description": "Dhamaka Movies streams blockbuster films and entertainment shows.",
+    "country": "International"
+  },
+  "RDS_SOCIAL_TV": {
+    "url": "https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/a756b8c8a5f6cf65140f84ee26cfedf8",
+    "tagline": "Music",
+    "hd": true,
+    "description": "RDS Social TV streams international music content.",
+    "country": "International"
+  },
+  "DREAM_TURK": {
+    "url": "https://tvsen6.aynaott.com/DreamTurk/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/21b1f8665ed080a8c4f4ec9014de22da",
+    "tagline": "Music",
+    "hd": true,
+    "description": "Dream Turk streams Turkish music and entertainment shows.",
+    "country": "Turkey"
+  },
+  "EKIN_TURK": {
+    "url": "https://tvsen6.aynaott.com/EkinTurk/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/689a960bf33c0412ba1077752b632c3d",
+    "tagline": "Music",
+    "hd": true,
+    "description": "Ekin Turk streams Turkish music videos and programs.",
+    "country": "Turkey"
+  },
+  "NR1": {
+    "url": "https://tvsen6.aynaott.com/NR1/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/77363ea6be4724682d2ba1223246916f",
+    "tagline": "Music",
+    "hd": true,
+    "description": "NR1 streams pop music and entertainment shows.",
+    "country": "Turkey"
+  },
+  "POWER_TURK": {
+    "url": "https://tvsen6.aynaott.com/PowerTurkTV/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/4329cb48da7e29dff8be49eb4f80c4cd",
+    "tagline": "Music",
+    "hd": true,
+    "description": "Power Turk streams Turkish pop and folk music.",
+    "country": "Turkey"
+  },
+  "8XM_MUSIC_HD": {
+    "url": "https://tvsen7.aynaott.com/8XMMusicHD/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/c38ec7f3fe9b59addb402995ed450246",
+    "tagline": "Music",
+    "hd": true,
+    "description": "8XM Music HD streams Bollywood and international music videos.",
+    "country": "International"
+  },
+  "9XM": {
+    "url": "https://tvsen6.aynaott.com/9xm/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d7c72d1fa7349c119a91fc51875b78d3",
+    "tagline": "Music",
+    "hd": true,
+    "description": "9XM streams Bollywood and international music videos.",
+    "country": "India"
+  },
+  "MASTIII_MUSIC": {
+    "url": "https://tvsen6.aynaott.com/mastimusic/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/f18b40a9e01972f1737ab4c4a4bbbceb",
+    "tagline": "Music",
+    "hd": true,
+    "description": "Mastiii Music streams popular Hindi music content.",
+    "country": "India"
+  },
+  "MUSIC_INDIA": {
+    "url": "https://tvsen6.aynaott.com/MusicIndia/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/9c45627c28eec88cac28473afd498f0e",
+    "tagline": "Music",
+    "hd": true,
+    "description": "Music India broadcasts Hindi music programs.",
+    "country": "India"
+  },
+  "DHOOM_MUSIC_BANGLA": {
+    "url": "https://tvsen6.aynaott.com/dhoom/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/c58900c644d812c4bff8e6935829de6b",
+    "tagline": "Music",
+    "hd": true,
+    "description": "Dhoom Music Bangla streams popular Bengali music videos.",
+    "country": "India"
+  },
+  "NAT_GEO_TV": {
+    "url": "https://tvsen6.aynaott.com/natgeo/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/67a48ff99e888817617ed26665586776",
+    "tagline": "Documentary",
+    "hd": true,
+    "description": "Nat Geo TV streams documentaries and educational programs.",
+    "country": "Global"
+  },
+  "YUKSEK_SOSYETE": {
+    "url": "https://tvsen6.aynaott.com/YuksekSosyete/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/d920ec337095d22a96522e9a71067b0b",
+    "tagline": "Türkiye",
+    "hd": true,
+    "description": "Yüksek Sosyete streams Turkish drama series.",
+    "country": "Turkey"
+  },
+  "DREAM_TURK": {
+    "url": "https://tvsen6.aynaott.com/DreamTurk/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/21b1f8665ed080a8c4f4ec9014de22da",
+    "tagline": "Türkiye",
+    "hd": true,
+    "description": "Dream Turk streams Turkish music and entertainment content.",
+    "country": "Turkey"
+  },
+  "EKIN_TURK": {
+    "url": "https://tvsen6.aynaott.com/EkinTurk/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/689a960bf33c0412ba1077752b632c3d",
+    "tagline": "Türkiye",
+    "hd": true,
+    "description": "Ekin Turk streams Turkish TV shows and music.",
+    "country": "Turkey"
+  },
+  "FINANS_TURK": {
+    "url": "https://tvsen6.aynaott.com/Finans/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/978cc2842990d6c36d5b6d9453607775",
+    "tagline": "Türkiye",
+    "hd": true,
+    "description": "Finans Turk streams financial news and updates.",
+    "country": "Turkey"
+  },
+  "NR1": {
+    "url": "https://tvsen6.aynaott.com/NR1/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/77363ea6be4724682d2ba1223246916f",
+    "tagline": "Türkiye",
+    "hd": true,
+    "description": "NR1 streams Turkish entertainment programs.",
+    "country": "Turkey"
+  },
+  "POWER_TURK": {
+    "url": "https://tvsen6.aynaott.com/PowerTurkTV/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/4329cb48da7e29dff8be49eb4f80c4cd",
+    "tagline": "Türkiye",
+    "hd": true,
+    "description": "Power Turk broadcasts Turkish pop music.",
+    "country": "Turkey"
+  },
+  "HUM_MASALA": {
+    "url": "https://tvsen7.aynaott.com/HumMasalaTVHD/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/5b3f59d3e3f6d945c0f1745eec7e2970",
+    "tagline": "Urdhu",
+    "hd": true,
+    "description": "Hum Masala streams Urdu cooking and entertainment shows.",
+    "country": "Pakistan"
+  },
+  "HUM_TV": {
+    "url": "https://tvsen7.aynaott.com/HumTVHD/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/b361ec9c0f3e5a7424830f5febc14ecb",
+    "tagline": "Urdhu",
+    "hd": true,
+    "description": "Hum TV streams popular Urdu entertainment and drama shows.",
+    "country": "Pakistan"
+  },
+  "HUM_SITARAY": {
+    "url": "https://tvsen7.aynaott.com/HumSitarayHD/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/bca46daf3abaa95116940ea3537413ff",
+    "tagline": "Urdhu",
+    "hd": true,
+    "description": "Hum Sitaray streams Urdu drama and entertainment programs.",
+    "country": "Pakistan"
+  },
+  "ZEE_BANGLA_INTERNATIONAL": {
+    "url": "https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8",
+    "logo": "https://s3.aynaott.com/storage/104a86bd3ae874796e873dae9ebe1b40",
+    "tagline": "Indian Bangla",
+    "hd": true,
+    "description": "Zee Bangla International streams Bengali TV shows and entertainment content.",
+    "country": "India"
+  }
+}
